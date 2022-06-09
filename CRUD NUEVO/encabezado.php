@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es">
+<html lang="es"> 
 <!--
 CRUD con PostgreSQL y PHP
 <head>
@@ -12,7 +12,7 @@ CRUD con PostgreSQL y PHP
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
-    <!-- Definición del menú -->
+    <!-- Definición del menú -->    <-- Hola mundo departe de Daniel -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" target="_blank">
       CRUD
