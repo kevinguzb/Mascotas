@@ -1,4 +1,4 @@
 # Mascotas
 
-Kevin Axel Guzman Barrera
+Kevin Axel Guzman Barrera<br>
 Daniel Sánchez Cortes
