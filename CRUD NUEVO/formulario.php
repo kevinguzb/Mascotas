@@ -1,10 +1,10 @@
 <?php include_once "encabezado.php" ?>
 <div class="row">
 	<div class="col-12">
-		<h1>Agregar</h1>
+		<h1>Añadir Alumno</h1>
 		<form action="insertar.php" method="POST">
 			<div class="form-group">
-				<label for="nombre">Nombre</label>
+				<label for="nombre">Nombre del Alumno</label>
 				<input required name="nombre" type="text" id="nombre" placeholder="Nombre de mascota" class="form-control">
 			</div>
 			<div class="form-group">
