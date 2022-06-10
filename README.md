@@ -1,5 +1,5 @@
 # Mascotas
 
 Kevin Axel Guzman Barrera<br>
-Daniel Sánchez Cortes
-Samuel Eduardo Uribe Ramirez
+Daniel Sánchez Cortes<br>
+Samuel Eduardo Uribe Ramirez<br>
