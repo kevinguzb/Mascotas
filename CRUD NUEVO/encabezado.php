@@ -15,7 +15,7 @@ CRUD con PostgreSQL y PHP
     <!-- Definición del menú -->   
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" target="_blank">
-      Kevin Guzman Barrera
+      CRUD
         </a>
         <div class="collapse navbar-collapse" id="miNavbar">
             <ul class="navbar-nav mr-auto">
